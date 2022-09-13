@@ -1,0 +1,14 @@
+[
+    {
+      "name": "myTama",
+      "live": "https://db-butter.github.io",
+      "git": "https://github.com/DB-Butter/DB-Butter.github.io",
+      "image": "https://i.imgur.com/rdSQul9.png"
+    },
+    {
+      "name": "HotelCalifornia",
+      "live": "https://app.netlify.app/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
